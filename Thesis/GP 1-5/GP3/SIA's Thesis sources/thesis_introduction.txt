@@ -1,0 +1,9 @@
+## Introduction
+
+The emergence of decentralized systems, particularly within the realm of Decentralized Finance (DeFi), represents a paradigm shift in how financial services are structured and delivered. These systems, built on blockchain technology and characterized by their transparency, immutability, and lack of central control, are rapidly gaining traction as alternatives to traditional investment vehicles. 
+
+This thesis investigates the impact of decentralization on investor trust in investment companies. Traditional investment structures often suffer from information asymmetry and agency problems, where the interests of fund managers may not align with those of investors. Decentralized systems offer the potential to mitigate these issues by providing greater transparency, reducing counterparty risk through smart contracts, and empowering investors with increased control over their assets.
+
+However, the transition to decentralized investment is not without its challenges. Regulatory uncertainty, security vulnerabilities, and the complexity of decentralized governance mechanisms pose significant risks to investor trust. This thesis will explore both the potential benefits and drawbacks of decentralization, analyzing how these factors influence investor perceptions and behaviors.
+
+The core argument of this thesis is that decentralized systems offer the potential to enhance investor trust through increased transparency and reduced agency costs, but also introduce new risks related to regulatory uncertainty and governance challenges.  A thorough examination of these dynamics is crucial for understanding the future of investment and the role of decentralized technologies in shaping a more trustworthy and efficient financial ecosystem.

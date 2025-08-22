@@ -1,1 +1,1 @@
-# ThesisSiaV1
+# Ethical-DAOs-Building-Trust-and-Transparency-in-Green-Tech-Governance
