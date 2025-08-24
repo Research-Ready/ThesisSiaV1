@@ -1,0 +1,10 @@
+Give it to me in quarto and markdown you can use advanced formatting
+- make sure its a cohierant story 
+- Its follow acaedmic thesis principles 
+- it meets the requirements 
+- ONLY IF IT MAKES SENSE, add code or graphs to it 
+- makes proper references 
+- is written like sia, enfj-t.
+- read all the feedback and make improvements. 
+- Use quarto tricks to make it pretty.
+Here is the part of gpt3 next:
