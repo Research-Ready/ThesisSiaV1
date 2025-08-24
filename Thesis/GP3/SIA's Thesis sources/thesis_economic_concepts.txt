@@ -1,0 +1,17 @@
+## Key Economic Concepts
+
+This section defines the core economic concepts underpinning the analysis of decentralized investment systems.
+
+**1. Information Asymmetry:** A situation where one party in a transaction possesses more information than the other. In traditional finance, fund managers often have superior information compared to investors, leading to potential agency problems.
+
+**2. Agency Problem:** Arises when the interests of a principal (investor) and an agent (fund manager) are not aligned. Agents may act in their own self-interest, potentially harming the principal.
+
+**3. Principal-Agent Theory:** A framework for understanding the relationship between principals and agents, and for designing mechanisms to mitigate agency problems.
+
+**4. Network Effects:** The value of a network increases as more participants join. Decentralized systems often exhibit strong network effects, enhancing their utility and security.
+
+**5. Trust:** A belief in the reliability, truth, ability, or strength of someone or something. In financial markets, trust is essential for facilitating transactions and attracting investment.
+
+**6. Tokenomics:** The economic principles governing the creation, distribution, and use of tokens within a blockchain-based ecosystem. Tokenomics play a crucial role in incentivizing participation and ensuring the long-term sustainability of decentralized systems.
+
+**7. Game Theory:** The study of strategic interactions between rational agents. Game theory can be used to analyze the behavior of participants in decentralized governance mechanisms.
